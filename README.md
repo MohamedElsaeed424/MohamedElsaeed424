@@ -22,6 +22,15 @@ Welcome to my GitHub profile! I'm a Computer Engineering student with a passion 
 ![Prisma](https://img.shields.io/badge/Prisma-%E2%9C%94-blue?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/Prisma-%E2%9C%94-blue?style=flat-square)
 
+## Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%94-yellow?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-%E2%9C%94-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-%E2%9C%94-yellow?style=flat-square)
+![C++](https://img.shields.io/badge/C++-%E2%9C%94-blue?style=flat-square)
+![Java](https://img.shields.io/badge/Java-%E2%9C%94-red?style=flat-square)
+
+
 ## Projects
 
 🔭 **Current Projects:**
