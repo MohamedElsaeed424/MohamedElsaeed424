@@ -1,4 +1,4 @@
-# Hello! I'm Mohamed Elsayed 👋
+# Hello! I'm Mohamed Elsaeed 👋
 
 ![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-%E2%9C%94-green?style=flat-square)
 ![Tech Enthusiast](https://img.shields.io/badge/Tech%20Enthusiast-%F0%9F%91%8C-blue?style=flat-square)
