@@ -1,49 +1,60 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hello! I'm Mohamed Elsayed 👋
 
-###
+![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-%E2%9C%94-green?style=flat-square)
+![Tech Enthusiast](https://img.shields.io/badge/Tech%20Enthusiast-%F0%9F%91%8C-blue?style=flat-square)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Welcome to my GitHub profile! I'm a Computer Engineering student with a passion for exploring and mastering a diverse range of technologies. 🚀
 
-###
+## About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 🎓 **Computer Engineering Student** - Currently studying Computer Engineering and eager to dive into the tech world.
+- 🌐 **Tech Enthusiast** - Always exploring new technologies and tools.
+- 📚 **Lifelong Learner** - Continuously expanding my skills and knowledge in tech and beyond.
 
-###
+## Skills & Technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-%F0%9F%92%BB-yellow?style=flat-square)
+![Angular](https://img.shields.io/badge/Angular-%E2%9C%94-red?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-%F0%9F%8F%89-green?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%F0%9F%8F%AB-blue?style=flat-square)
+![Mongoose](https://img.shields.io/badge/Mongoose-%E2%9C%94-blue?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%E2%9C%94-orange?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-%E2%9C%94-blue?style=flat-square)
 
-###
+## Programming Languages
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%94-yellow?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-%E2%9C%94-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-%E2%9C%94-yellow?style=flat-square)
+![C++](https://img.shields.io/badge/C++-%E2%9C%94-blue?style=flat-square)
+![Java](https://img.shields.io/badge/Java-%E2%9C%94-red?style=flat-square)
 
-###
+## Projects
 
-<br clear="both">
+🔭 **Current Projects:**
+- **[Smart Teach Academy](https://github.com/MohamedElsaeed424/smart-teach-academy)** - A comprehensive platform for educational courses, featuring dynamic scheduling and interactive features.
+- **[Portfolio Website](https://github.com/MohamedElsaeed424/portfolio)** - Showcasing my projects, skills, and achievements.
+- **[Tech Blog](https://github.com/MohamedElsaeed424/tech-blog)** - Sharing insights and tutorials on various tech topics.
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+🌟 **Highlighted Repositories:**
+- **[Angular Notification System](https://github.com/MohamedElsaeed424/angular-notification-system)** - An Angular application with real-time notifications using Toaster.
+- **[Full Stack E-Commerce](https://github.com/MohamedElsaeed424/full-stack-ecommerce)** - A complete e-commerce application built with Node.js, Angular, and PostgreSQL.
 
-###
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedElsaeed424&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_rank=true&theme=radical)
+
+## Connect with Me
+
+- 💼 **[LinkedIn](https://www.linkedin.com/in/mohamed-elsayed)** - Connect with me on LinkedIn for professional updates and networking.
+- 🐦 **[Twitter](https://twitter.com/MohamedElsaeed)** - Follow me on Twitter for tech insights and updates.
+- 📧 **[Email](mailto:mohamed.elsayed@example.com)** - Feel free to reach out via email for collaborations or inquiries.
+
+## Fun Facts
+
+- 🎯 **Goals:** Striving to contribute to open-source projects and build innovative applications.
+- 🧩 **Interests:** Passionate about exploring new tech stacks, solving complex problems, and engaging with the tech community.
+
+---
+
+✨ Thanks for visiting my GitHub profile! Explore my repositories, check out my projects, and connect with me. Let's build something amazing together! ✨
