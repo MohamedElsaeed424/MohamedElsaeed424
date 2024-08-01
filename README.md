@@ -20,17 +20,13 @@ Welcome to my GitHub profile! I'm a Computer Engineering student with a passion 
 ![Mongoose](https://img.shields.io/badge/Mongoose-%E2%9C%94-blue?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%E2%9C%94-orange?style=flat-square)
 ![Prisma](https://img.shields.io/badge/Prisma-%E2%9C%94-blue?style=flat-square)
+![MongoDB](https://img.shields.io/badge/Prisma-%E2%9C%94-blue?style=flat-square)
 
 ## Projects
 
 🔭 **Current Projects:**
-- **[Smart Teach Academy](https://github.com/MohamedElsaeed424/smart-teach-academy)** - A comprehensive platform for educational courses, featuring dynamic scheduling and interactive features.
+- **[Smart Teach Academy](https://github.com/MohamedElsaeed424/Smart-teach-webApp)** - A comprehensive platform for educational courses, featuring dynamic scheduling and interactive features.
 - **[Portfolio Website](https://github.com/MohamedElsaeed424/portfolio)** - Showcasing my projects, skills, and achievements.
-- **[Tech Blog](https://github.com/MohamedElsaeed424/tech-blog)** - Sharing insights and tutorials on various tech topics.
-
-🌟 **Highlighted Repositories:**
-- **[Angular Notification System](https://github.com/MohamedElsaeed424/angular-notification-system)** - An Angular application with real-time notifications using Toaster.
-- **[Full Stack E-Commerce](https://github.com/MohamedElsaeed424/full-stack-ecommerce)** - A complete e-commerce application built with Node.js, Angular, and PostgreSQL.
 
 ## GitHub Stats
 
@@ -38,9 +34,8 @@ Welcome to my GitHub profile! I'm a Computer Engineering student with a passion 
 
 ## Connect with Me
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/mohamed-elsayed)** - Connect with me on LinkedIn for professional updates and networking.
-- 🐦 **[Twitter](https://twitter.com/MohamedElsaeed)** - Follow me on Twitter for tech insights and updates.
-- 📧 **[Email](mailto:mohamed.elsayed@example.com)** - Feel free to reach out via email for collaborations or inquiries.
+- 💼 **[LinkedIn](https://www.linkedin.com/in/mohamed-elsaeed-elmenshawy/)** - Connect with me on LinkedIn for professional updates and networking.
+- 📧 **[Email](mailto:mohamed.smenshawy@gmail.com)** - Feel free to reach out via email for collaborations or inquiries.
 
 ## Fun Facts
 
