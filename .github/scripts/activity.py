@@ -75,7 +75,7 @@ def card(st: dict, t: dict, theme: str, fonts: dict, today: dt.date) -> str:
                f'<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="22" fill="none" stroke="{t["line"]}"/>')
     out.append(text(36, 48, "CONTRIBUTIONS · LAST 12 MONTHS", "SG700", 13, t["teal"], ls=2.6))
     out.append(text(W - 36, 48, f"Refreshed {today:%d %b %Y}", "IN500", 12.5, t["muted"], anchor="end"))
-    third = (f"{st['current']}", "day streak now") if st["current"] >= 2 else (f"{st['best']}", "on the busiest day")
+    third = (f"{st['current']}", "day streak now") if st["current"] >= 2 else (f"{st['best']}", "best day")
     blocks = [(f"{st['total']:,}", "contributions"), (f"{st['active']}", "active days"), third, (f"{st['longest']}", "longest streak")]
     for i, (value, label) in enumerate(blocks):
         x, y = 36 + (i % 2) * 112, 104 + (i // 2) * 74
