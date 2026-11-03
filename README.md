@@ -36,7 +36,7 @@ I'm writing a series, "AI Colleagues: Hired, Not Coded", about treating AI agent
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-now-dark.svg"><img src="assets/title-now-light.svg" alt="Now: What I am building and writing right now" width="100%"></picture>
 
-<a href="https://www.linkedin.com/in/mohamed-elsaeed-elmenshawy/recent-activity/all/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg"><img src="assets/now-light.svg" alt="Building now: Forward Deployed AI Engineer at Misr Italia Properties (Dec 2025 – Present): AI colleagues platform (lead engineer); Employee mobile app on iOS and Android; Arabic speech recognition; RAG with LangGraph; Workflow automation with N8N on Microsoft Azure and Google Cloud. Writing on LinkedIn: AI Colleagues: Hired, Not Coded, 7 of 17 parts published, latest AC-07: Our AI employees go through probation, just like people" width="100%"></picture></a>
+<a href="https://www.linkedin.com/in/mohamed-elsaeed-elmenshawy/recent-activity/all/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg"><img src="assets/now-light.svg" alt="Building now: Forward Deployed AI Engineer at Misr Italia Properties (Dec 2025 – Present): AI colleagues platform (lead engineer); Employee mobile app on iOS and Android; Arabic speech recognition; RAG with LangGraph; Workflow automation with N8N on Microsoft Azure and Google Cloud. Writing on LinkedIn: AI Colleagues: Hired, Not Coded, 8 of 17 parts published, latest AC-08: The most valuable thing an AI employee can say: &quot;I&#x27;m not sure&quot;" width="100%"></picture></a>
 
 <br>
 
